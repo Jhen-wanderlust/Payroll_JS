@@ -1,4 +1,5 @@
-// get the current value of the emp deafult
+// get the current value of the emp deafulta allowance 
+// test data: Mass Update / Case 70 employee
 
 var Newemp = document.querySelectorAll(".td_allowrate")[0].innerText;
 var emp =  Math.floor(Newemp);
